@@ -14,19 +14,19 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['5491157402709', 'Legen-Soporte', true],
-  ['584148256527', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆', true],
-  ['50587043137'],
-  ['51923300039'],
-  ['15045475386'],
-  ['584120346669']
+  ['48699533854', 'Legen-Soporte', true],
+  ['48699533854', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆', true],
+  ['48699533854'],
+  ['48699533854'],
+  ['48699533854'],
+  ['48699533854']
 ];
 
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['584148256527', '5218711426787', '', '', '']
+global.mods = ['48699533854', '48699533854', '', '', '']
 
-global.suittag = ['584148256527']
+global.suittag = ['48699533854']
 global.prems = []
 
 //cambiar a true si el bot detecta sus propios comandos.
@@ -104,15 +104,15 @@ global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Kakaroto༆', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
  
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7' //Grupo Oficial De Drako
-global.gp1 = 'https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7' //Grupo 
-global.gp2 = 'https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7'//
-global.comunidad1 = 'https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7' //Comunidad Drako
-global.channel = 'https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7' //Canal Oficial
-global.yt = 'https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7' //Canal De Youtube
-global.md = 'https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7' //Github Oficial
-global.correo = 'https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7'
-global.cn ='https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7';
+global.gp4 = 'https://chat.whatsapp.com/DrQmZWiK2COjH3Xqq7' //Grupo Oficial De Drako
+global.gp1 = 'https://chat.whatsapp.com/DrQmiK2COjH3Xqq7' //Grupo 
+global.gp2 = 'https://chat.whatsapp.com/DrMSWiK2COjH3Xqq7'//
+global.comunidad1 = 'https://chat.whatsapp.com/DrQmZfEK2COjH3Xqq7' //Comunidad Drako
+global.channel = 'https://chat.whatsapp.com/DrQmZiK2COjH3Xqq7' //Canal Oficial
+global.yt = 'https://chat.whatsapp.com/DrQmZfEMSjH3Xqq7' //Canal De Youtube
+global.md = 'https://chat.whatsapp.com/DrQmZfE2COjH3Xqq7' //Github Oficial
+global.correo = 'https://chat.whatsapp.com/DrQmZK2COjH3Xqq7'
+global.cn ='https://chat.whatsapp.com/DrQmZfCOjH3Xqq7';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
@@ -128,7 +128,7 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nKakaroto - Bot`;
-global.nomorown = '584148256527';
+global.nomorown = '48699533854';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
